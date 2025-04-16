@@ -94,17 +94,9 @@ with tab1:
     )
 
 # ==========================
-# 📊 DASHBOARD TAB
-# ==========================
-with tab2:
-    st.header("📊 Interactive Power BI Dashboard")
-    st.markdown("Explore the full vehicle dataset with filters and visuals.")
-    st.markdown("[🔗 View Dashboard](https://your-dashboard-link.com)")
-
-# ==========================
 # 🔮 PREDICTION TAB
 # ==========================
-with tab3:
+with tab2:
     st.markdown(
         """
         <style>
